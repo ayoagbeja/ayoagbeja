@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayoagbeja
-- 👀 I’m interested in Machine Learning & Artificial Intelligence
+- 👀 I’m interested in Data Science, Machine Learning & Artificial Intelligence
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me twitter @oba_ore
