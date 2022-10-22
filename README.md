@@ -2,7 +2,7 @@
 
 #### A passionate Data Scientist & Machine Learning Engineer
 
-T
+
 
 - I am currently learning tensorflow for machine learning and tableau for data visualization
 - ✉️ Please contact me on oreayo98@gmail.com
