@@ -12,16 +12,15 @@ T
 ### Connect with me:
 
 ![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/72551684/197346350-8a072f4b-c86d-49f3-8015-9b9018d5d751.png)[1]
+
 [1]:https://www.linkedin.com/in/ayooluwa-o-agbeja-710ba71a8/
 ---
 
 <br/>
 
-* ### Skills:
 
-![Python-Transparent-Background](https://user-images.githubusercontent.com/72551684/197349314-f11bf1ea-27db-4adf-a871-6693487ee715.png)
+### Skills
 
----
 
-<br />
-![python](https://user-images.githubusercontent.com/72551684/197349443-e128e455-724a-452d-82d4-e7208034afaa.png)
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
