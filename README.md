@@ -26,3 +26,4 @@ T
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/72551684/197352834-ce9c32f4-df65-453d-83a6-c239715ad18b.svg" width="36" height="36" alt="R Studio" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/72551684/197353266-95baf37c-f57d-4467-a9de-5203b4a4e985.svg" width="36" height="36" alt="Excel" /></a>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/72551684/197353399-5f16c11b-4a01-41dd-81c4-4e75a1b79334.svg" width="36" height="36" alt="Excel" /></a>
