@@ -1,4 +1,4 @@
-# Hello👋, I am Ayo Agbeja 
+<img src="https://tenor.com/view/aaaa-gif-23223654" alt="My Project GIF" width="90" height="90">  Hello my name is Ayo Agbeja
 
 #### A passionate Data Scientist & Machine Learning Engineer
 
