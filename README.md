@@ -1,4 +1,4 @@
-<img src="<iframe src="https://giphy.com/embed/xUPGcigl4eOfc6hA5y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-welcome-xUPGcigl4eOfc6hA5y">via GIPHY</a></p>" alt="My Project GIF" width="90" height="90">  Hello my name is Ayo Agbeja
+### Hello my name is Ayo Agbeja
 
 #### A passionate Data Scientist & Machine Learning Engineer
 
