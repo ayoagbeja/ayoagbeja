@@ -6,7 +6,7 @@
 
 - I am currently learning tensorflow for machine learning and tableau for data visualization
 - ✉️ Please contact me on oreayo98@gmail.com
-🤝  I'm open to collaborating on interesting and open source projects
+- 🤝  I'm open to collaborating on interesting and open source projects
 - Fun fact: I am an avid reader of literature.
 
 ### Connect with me:
