@@ -24,5 +24,5 @@ T
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/72551684/197352834-ce9c32f4-df65-453d-83a6-c239715ad18b.svg)" width="36" height="36" alt="R Studio" /></a>
+<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/72551684/197352834-ce9c32f4-df65-453d-83a6-c239715ad18b.svg" width="36" height="36" alt="R Studio" /></a>
   
