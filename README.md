@@ -17,9 +17,9 @@ T
 
 <br/>
 
-* ### You can use these html tags to separate the sections and create some space between them:
+* ### Skills:
 
-![br](https://user-images.githubusercontent.com/76062682/139349823-dfa3bfb0-504f-4408-9824-2c83b80e7ecf.png)
+![Python-Transparent-Background](https://user-images.githubusercontent.com/72551684/197349314-f11bf1ea-27db-4adf-a871-6693487ee715.png)
 
 ---
 
