@@ -11,8 +11,8 @@ T
 
 ### Connect with me:
 
-![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/72551684/197346350-8a072f4b-c86d-49f3-8015-9b9018d5d751.png)
-
+![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/72551684/197346350-8a072f4b-c86d-49f3-8015-9b9018d5d751.png)[1]
+[1]:https://www.linkedin.com/in/ayooluwa-o-agbeja-710ba71a8/
 ---
 
 <br/>
