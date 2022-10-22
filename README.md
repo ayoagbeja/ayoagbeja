@@ -11,7 +11,8 @@ T
 
 ### Connect with me:
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![icons8-linkedin-circled-48](https://user-images.githubusercontent.com/72551684/197346350-8a072f4b-c86d-49f3-8015-9b9018d5d751.png)
+
 
 ---
 
