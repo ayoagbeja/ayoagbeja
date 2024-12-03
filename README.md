@@ -1,6 +1,6 @@
-### Hello my name is Ore A Agbeja
+### Ore A Agbeja
 
-#### A passionate Data Analyst & ML Engineer
+#### Data Analyst & ML Engineer
 
 
 ### Connect with me:
