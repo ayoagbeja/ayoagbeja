@@ -1,13 +1,7 @@
-### Hello my name is Ayo O. Agbeja
+### Hello my name is Ore A Agbeja
 
-#### A passionate Data Scientist & Machine Learning Engineer
+#### A passionate Data Analyst & ML Engineer
 
-
-
-- I am currently learning Cloud Computing with Micrsoft Azure
-- ✉️ Please contact me on oreayo98@gmail.com
-- 🤝  I'm open to collaborating on interesting and open source projects
-- Fun fact: I am an avid reader of literature.
 
 ### Connect with me:
 
